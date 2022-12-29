@@ -13,7 +13,7 @@ php artisan key:generate -> for APP_KEY in .env file
 env connect -> database connecting
 php artisan migrate:fresh
 php artisan serve
-
+<p>test</p>
 * You need to update a file
 vendor\laravel\framework\src\Illuminate\Auth\Notifications;
 Normal lock
