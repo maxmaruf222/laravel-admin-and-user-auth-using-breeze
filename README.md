@@ -54,6 +54,8 @@ protected function resetUrl($notifiable)
         }
         
     }
+    
+    also update smpt for email check
 
 </pre>
 
